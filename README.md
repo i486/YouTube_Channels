@@ -11,9 +11,9 @@
 - [Blue Collar](#blue-collar)
 - [Chemistry](#chemistry)
 - [Chill](#chill)
+- [Computer Science](#computer-science)
 - [Coding](#coding)
 - [Comedy](#comedy)
-- [Computer Science](#computer-science)
 - [Cooking](#cooking)
 - [Documentaries](#documentaries)
 - [Earth Science](#earth-science)
@@ -34,52 +34,19 @@
 - [Physics](#physics)
 - [Science Experiments and Building Stuff](#science-experiments-and-building-stuff)
 - [Space](#space)
+- [Sports](#sports)
 - [Travel](#travel)
 - [Workshop](#workshop)
 - [Other](#other)
 
 ### Other Resources:
 - [Podcasts](#podcasts)
-- [Useful Websites](#useful-websites)
+- [Useful Websites](#websites)
 - [Browser Extensions](#browser-extensions)
 - [Online Learning](#online-learning)
 - [Software](#software)
 - [Apps](#apps)
 - [Misc](#misc)
-
-## Personal Favorites:
-
-* [Lemmino](https://www.youtube.com/user/Top10Memes/videos) 
-* [melodysheep ](https://www.youtube.com/user/melodysheep/videos)
-* [Ze Frank](https://www.youtube.com/c/zefrank/videos) - biology
-* [Primitive Technology ](https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA/videos)
-* [Casually Explained ](https://www.youtube.com/c/CasuallyExplained/videos) - comedy, kinda
-* [Applied Science](https://www.youtube.com/user/bkraz333/videos) - science experiments
-* [Sebastian Lague](https://www.youtube.com/c/SebastianLague/videos) - game dev/comp sci
-* [Crime Pays But Botany Doesn't](https://www.youtube.com/c/CrimePaysButBotanyDoesnt/videos) - botany
-* [Veritasium](https://www.youtube.com/c/veritasium/videos) - general science
-* [Vagrant Holiday](https://www.youtube.com/c/VagrantHoliday/videos) 
-* [Exurb1a](https://www.youtube.com/user/willunicycleforfood/videos) - philosophy
-* [Marc Rebillet](https://www.youtube.com/c/MarcRebillet/videos) - music
-* [NileRed](https://www.youtube.com/user/TheRedNile/videos) - chemistry
-* [Deep Look](https://www.youtube.com/user/KQEDDeepLook/videos) - biology
-* [Hsinchuen Lin](https://www.youtube.com/c/hsinchuen/videos) - ceramics
-* [Deep Sky Videos](https://www.youtube.com/user/DeepSkyVideos/videos) - space
-* [Cooking With The Blues](https://www.youtube.com/c/CookingWithTheBlues/videos) - cooking
-* [Real Engineering](https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg/videos) - engineering
-* [StuffMadeHere](https://www.youtube.com/c/StuffMadeHere/videos) - engineering
-* [Ben Eater ](https://www.youtube.com/user/eaterbc/videos)- computer science
-* [styropyro ](https://www.youtube.com/user/styropyro/videos) - lasers
-* [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos) - math
-* [Kurzgesagt - In a Nutshell](https://www.youtube.com/c/inanutshell/videos)
-* [EngineerGuy](https://www.youtube.com/user/engineerguyvideo/videos) - engineering
-* [Periodic Videos](https://www.youtube.com/user/periodicvideos/videos) - chemistry
-* [Journey to the Microcosmos](https://www.youtube.com/c/microcosmos/videos) - microbiology, microscopy
-* [Channel 5 with Andrew Callaghan ](https://www.youtube.com/c/Channel5YouTube/videos)
-* [Dictionary of Obscure Sorrows](https://www.youtube.com/user/obscuresorrows/videos)
-* [SethEverman](https://www.youtube.com/user/SethEverman/videos) 
-* [Indigo Traveller ](https://www.youtube.com/c/IndigoTraveller/videos) - travel
-
 
 
 
